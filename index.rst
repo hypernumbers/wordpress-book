@@ -1,4 +1,4 @@
-.. Building Applications With Vixo documentation master file, created by
+.. WordPress And Vixo documentation master file, created by
    sphinx-quickstart on Wed Mar  2 21:42:57 2011.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -128,3 +128,13 @@ Writing Data To The Spreadsheet
    :maxdepth: 1
 
    Introduction                <contents/writing-data-to-the-spreadsheet/introduction>
+
+Things The API Can't Do
+-----------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Introduction           <contents/things-the-api-cant-do/introduction>
+   Administrative Actions <contents/things-the-api-cant-do/administrative-actions>
+   Logging Actions        <contents/things-the-api-cant-do/logging-actions>

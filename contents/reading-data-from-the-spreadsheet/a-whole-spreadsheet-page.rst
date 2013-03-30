@@ -24,9 +24,9 @@ This returns a json description of a page - an example is shown later.
 
 The meaning of each top level member of the json is defined below:
 
-=============== ================================================================
+=============== =======================================================================
 Section         Meaning
-=============== ================================================================
+=============== =======================================================================
 ``styles``      A global style for the spreadsheet, identified by an index
                 value. The style can include the following css attributes:
 
@@ -102,8 +102,7 @@ Section         Meaning
 
                  * ``inline``
                  * ``inlinerich``
-                 * a json select structure of the form
-                 ``{"select": ["1", "2", "3"]}``
+                 * a json select structure of the form ``{"select": ["1", "2", "3"]}``
 
 ``host``        The website the spreadsheet page is from
 
@@ -149,7 +148,7 @@ Section         Meaning
                 usernames are email addresses - and every user is a member of
                 a special group whose name is their email address.
 
-=============== ================================================================
+=============== =======================================================================
 
 The json that is returned has the following structure:
 
@@ -318,4 +317,4 @@ The json that is returned has the following structure:
 
 .. _ghost cell: http://documentation.vixo.com/contents/vixo-overview/making-forms.html
 
-.. _wiki page: http://documentation.vixo.com/contents/vixo-overview/web-and-wikipages.html
+.. _wiki view: http://documentation.vixo.com/contents/vixo-overview/web-and-wikipages.html
