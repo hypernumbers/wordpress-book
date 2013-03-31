@@ -103,9 +103,9 @@ Contents
 .. toctree::
    :maxdepth: 1
 
-   Introduction                <contents/site-wide-apis/introduction>
-   Site Details                <contents/site-wide-apis/site-details>
-   Pages On The Site           <contents/site-wide-apis/page-details>
+   Introduction       <contents/site-wide-apis/introduction>
+   Site Details       <contents/site-wide-apis/site-details>
+   Pages On The Site  <contents/site-wide-apis/page-details>
 
 Reading Data From The Spreadsheet
 ---------------------------------

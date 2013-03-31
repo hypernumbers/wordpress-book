@@ -24,6 +24,11 @@ The core administrative URL's are:
 
 These URL's (and their subdirectories) cannot be read or written by the API.
 
+There are a couple of administrative URL's that are readable:
+
+* ``http://example.com/_pages/``
+* ``http://example.com/_site/``
+
 The convention that system URL's are demoted by a leading underscore (``_``) is carried through into system functions that generate input on pages they are not on.
 
 By default a form on a page places the information it captures on a subpage called ``_replies`` and the telephony and email functions capture information on a subpage called ``_contacts``.
