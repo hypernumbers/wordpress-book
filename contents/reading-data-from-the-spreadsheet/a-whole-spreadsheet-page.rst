@@ -1,5 +1,6 @@
+================================
 Reading A Whole Spreadsheet Page
---------------------------------
+================================
 
 Here is an example page with some formatting:
 
@@ -15,7 +16,7 @@ Component   Details
 =========== ==================================
 Method      ``GET``
 
-Headers     ``{"Accept", "json/application"}``
+Headers     ``{"Accept", "application/json"}``
 
 URL         ``http://example.com/some/page/``
 =========== ==================================

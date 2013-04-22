@@ -19,7 +19,7 @@ Component   Details
 =========== ==================================
 Method      ``GET``
 
-Headers     ``{"Accept", "json/application"}``
+Headers     ``{"Accept", "application/json"}``
 
 URL         ``http://example.com/_site/``
 =========== ==================================

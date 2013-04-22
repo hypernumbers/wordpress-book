@@ -129,6 +129,20 @@ Writing Data To The Spreadsheet
 
    Introduction                <contents/writing-data-to-the-spreadsheet/introduction>
 
+Manipulating Spreadsheets
+-------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   Introduction                                 <contents/manipulating-spreadsheets/introduction>
+   Copy Cells Or Ranges                         <contents/manipulating-spreadsheets/copy-cells-or-ranges>
+   Creating Pages From Templates                <contents/manipulating-spreadsheets/creating-pages-from-templates>
+   Delete Cells, Ranges, Rows, Columns Or Pages <contents/manipulating-spreadsheets/delete-cells-ranges-rows-columns-or-pages>
+   Drag And Drop                                <contents/manipulating-spreadsheets/drag-and-drop>
+   Insert Cells, Ranges, Rows Or Columns        <contents/manipulating-spreadsheets/insert-cells-ranges-rows-or-columns>
+
+
 Things The API Can't Do
 -----------------------
 

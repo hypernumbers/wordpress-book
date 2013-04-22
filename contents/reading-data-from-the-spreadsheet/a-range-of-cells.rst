@@ -1,5 +1,6 @@
+========================
 Reading A Range Of Cells
-------------------------
+========================
 
 The following API call will return the json representation of a range of cells
 
@@ -8,7 +9,7 @@ Component   Details
 =========== ======================================
 Method      ``GET``
 
-Headers     ``{"Accept", "json/application"}``
+Headers     ``{"Accept", "application/json"}``
 
 URL         ``http://example.com/some/page/a1:d8``
 =========== ======================================
