@@ -1,12 +1,16 @@
-=======================
-Introduction To The API
-=======================
+===============================
+Writing Data To The Spreadsheet
+===============================
 
-How It Works
-------------
+Overview
+--------
 
-The API works by using a digitally signed ``http`` request (either ``GET`` or ``POST``).
+This section shows how to write data to the spreadsheets - values, functions, numerical and text formats and layout options. Data is usually written to cells and ranges, but some types of data can be written to rows and columns.
 
-A set of public and private keys is generated on the Vixo site and these are used to sign the requests.
+Contents
+--------
 
-The API is based on the Amazon Web Services digitially signed api.
+.. toctree::
+   :maxdepth: 1
+
+   Writing Functions And Values To A Cell <functions-and-values>

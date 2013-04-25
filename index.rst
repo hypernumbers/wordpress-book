@@ -128,6 +128,7 @@ Writing Data To The Spreadsheet
    :maxdepth: 1
 
    Introduction                <contents/writing-data-to-the-spreadsheet/introduction>
+   Writing Functions And Values To A Cell <contents/writing-data-to-the-spreadsheet/functions-and-values>
 
 Manipulating Spreadsheets
 -------------------------
